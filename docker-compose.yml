@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  scraper:
+    build: .
+    image: ai-intel-scraper:latest
+    container_name: ai-intel-scraper
+    volumes:
+      - ./config:/app/config
+      - ./reports:/app/reports
+      - ./scripts:/app/scripts
+    # Using default CMD from Dockerfile which runs the pipeline

@@ -1,0 +1,10 @@
+watch_repos:
+  - langchain-ai/langgraph
+  - modelcontextprotocol/specification
+  - fastapi/fastapi
+  - pydantic/pydantic
+  - PaddlePaddle/PaddleOCR
+  - docling-project/docling
+  - pymupdf/PyMuPDF
+  - open-webui/open-webui
+  - keycloak/keycloak

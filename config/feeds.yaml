@@ -1,0 +1,49 @@
+official_labs:
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+  - name: Anthropic News
+    url: https://www.anthropic.com/news.xml
+  - name: Google DeepMind Blog
+    url: https://deepmind.google/blog/feed/basic/
+  - name: Meta AI Blog
+    url: https://ai.meta.com/blog/rss/
+  - name: NVIDIA Blog
+    url: https://blogs.nvidia.com/feed/
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+
+engineering:
+  - name: Simon Willison
+    url: https://simonwillison.net/atom/entries/
+  - name: GitHub Changelog
+    url: https://github.blog/changelog/feed/
+
+ai_agents:
+  - name: MCP official
+    url: https://modelcontextprotocol.io/feed.xml
+
+china:
+  - name: V2EX Share
+    url: https://www.v2ex.com/feed/share.xml
+  - name: V2EX Create
+    url: https://www.v2ex.com/feed/create.xml
+
+semiconductor_finance:
+  - name: SemiAnalysis
+    url: https://www.semianalysis.com/feed
+  - name: SemiWiki
+    url: https://semiwiki.com/feed/
+  - name: Stratechery
+    url: https://stratechery.com/feed/
+
+crypto_rwa:
+  - name: CoinDesk
+    url: https://www.coindesk.com/arc/outboundfeeds/rss/
+  - name: Messari Research
+    url: https://messari.io/rss
+
+enterprise_ai_ops:
+  - name: a16z Enterprise
+    url: https://a16z.com/category/enterprise/feed/
+  - name: Azure AI Blog
+    url: https://azure.microsoft.com/en-us/blog/feed/
