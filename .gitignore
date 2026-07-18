@@ -4,6 +4,8 @@ reports/raw/
 reports/daily/
 
 # Python cache & build
+.venv/
+venv/
 __pycache__/
 *.pyc
 *.pyo
